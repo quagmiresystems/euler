@@ -2,7 +2,7 @@ package com.quagmiresystems.euler;
 
 
 
-public class SmallestMultipleOneThroughTwenty {
+public class Euler005SmallestMultipleOneThroughTwenty {
 
     public static void main(String[] args) {
         boolean found = false;

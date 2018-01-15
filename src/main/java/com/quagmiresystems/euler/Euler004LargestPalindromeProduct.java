@@ -1,7 +1,7 @@
 package com.quagmiresystems.euler;
 
 
-public class LargestPalindromeProduct {
+public class Euler004LargestPalindromeProduct {
     
     private static int max = Integer.MIN_VALUE;
     

@@ -1,7 +1,7 @@
 package com.quagmiresystems.euler;
 
 
-public class TenThousandFirstPrime {
+public class Euler007TenThousandFirstPrime {
     
     static int primeCount = 1;
     

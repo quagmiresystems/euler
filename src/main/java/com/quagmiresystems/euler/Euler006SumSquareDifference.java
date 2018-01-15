@@ -3,7 +3,7 @@ package com.quagmiresystems.euler;
 import java.math.BigInteger;
 
 
-public class SumSquareDifference {
+public class Euler006SumSquareDifference {
     
     public static void main(String[] args) {
         int sumOfFirstHundredInts = 0;
