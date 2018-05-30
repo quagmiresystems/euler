@@ -5,10 +5,10 @@ import org.junit.Test;
 
 
 public class DistinctPowersTest {
-    
-    @Test
-    public void testGiven() {
-        assertEquals(15, Euler029DistinctPowers.numDistinctTerms(2, 5));
-    }
-    
+
+  @Test
+  public void testGiven() {
+    assertEquals(15, Problem029DistinctPowers.numDistinctTerms(2, 5));
+  }
+
 }

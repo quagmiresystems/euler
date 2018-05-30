@@ -5,10 +5,10 @@ import org.junit.Test;
 
 
 public class LargestProductInSeriesTest {
-    
-    @Test
-    public void testMaxProduct() {
-        assertEquals(24, Euler008LargestProductInSeries.maxProduct("1234"));
-    }
-    
+
+  @Test
+  public void testMaxProduct() {
+    assertEquals(24, Problem008LargestProductInSeries.maxProduct("1234"));
+  }
+
 }
