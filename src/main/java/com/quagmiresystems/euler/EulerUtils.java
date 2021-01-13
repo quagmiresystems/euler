@@ -20,6 +20,10 @@ public class EulerUtils {
     return true;
   }
 
+  public static int concat(int a, int b) {
+    return Integer.parseInt(""+a+b);
+  }
+
   public static List<Long> factors(long x) {
     List<Long> factors = new ArrayList<>();
     long max = Math.round(Math.sqrt(x));
